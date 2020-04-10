@@ -2,8 +2,8 @@
 
 Removes monochromatic watermarks from a set of images by using a method similar to what Google describes [here](https://www.youtube.com/watch?v=02Ywt87OpS4&feature=emb_logo).  A separate image of the watermark is not needed, instead images with the <u>exact same watermark</u> are used to isolate the watermark.  Inpainting is used on the edges of the watermark where inaccuracies are likely to occur.
 
-![Watermarked image](./watermarked/l9.png)
-![Cleaned image](./cleaned/12.png)
+![Watermarked image](./watermarked/l4.png)
+![Cleaned image](./cleaned/7.png)
 
 ## Installation
 
